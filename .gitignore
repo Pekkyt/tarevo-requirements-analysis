@@ -1,0 +1,20 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
+*~
+*.swp
+*.swo
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# Logs and caches
+*.log
+.cache/
